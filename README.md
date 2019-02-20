@@ -1,2 +1,2 @@
 # WsLogger
-A tool used to log WebSocket flow into log a log file.
+A tool used to record WebSocket stream into a log file.
