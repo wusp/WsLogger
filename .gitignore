@@ -13,4 +13,6 @@
 
 dist/*
 
+log/*
+
 .idea/*
